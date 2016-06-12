@@ -1,0 +1,5 @@
+linux/build-*
+linux/**/Makefile*
+linux/**/*.so
+linux/**/release
+HomeLights.pro.user
